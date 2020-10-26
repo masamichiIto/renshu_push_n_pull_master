@@ -9,3 +9,6 @@ git/github超入門
 
 https://techacademy.jp/magazine/10274
 git pullについて
+
+https://qiita.com/seri1234/items/e651b3e108a695a92809
+origin master とは？ブランチとは？
