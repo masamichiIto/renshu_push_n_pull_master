@@ -12,3 +12,15 @@ git pullについて
 
 https://qiita.com/seri1234/items/e651b3e108a695a92809
 origin master とは？ブランチとは？
+
+http://bicycle1885.hatenablog.com/entry/2016/08/09/081525
+JuliaからRを呼び出す
+
+https://en.wikipedia.org/wiki/Woodbury_matrix_identity#Binomial_inverse_theorem
+大好きWoodbury identity
+
+http://keisukekondo.webcrow.jp/computer/tex/indexjp.html
+Excelの表をtexのtabuler環境で使えるように変換するサイト
+
+https://backlog.com/ja/git-tutorial/intro/01/
+サル先生のgit入門．わかりやすそう．読んでないから知らんけど．
