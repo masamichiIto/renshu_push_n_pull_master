@@ -7,3 +7,5 @@ the way to clone from existing repositories from github to your local directory,
 https://gist.github.com/HirotoKagotani/3424245
 git/github超入門
 
+https://techacademy.jp/magazine/10274
+git pullについて
