@@ -24,3 +24,12 @@ Excelの表をtexのtabuler環境で使えるように変換するサイト
 
 https://backlog.com/ja/git-tutorial/intro/01/
 サル先生のgit入門．わかりやすそう．読んでないから知らんけど．
+
+http://jscs.jp/学会の活動/学会誌/?action=common_download_main&upload_id=180
+計算機統計学会誌の投稿規定．ページ上限は，24項以内で
+
+http://bunrui.jp/JCSJournal/rule.pdf
+データ分析の理論と応用の投稿規定．図はepsファイル，項数制限は10.
+
+https://bms.gr.jp/journals/index_j/
+行動計量学会誌投稿規定．項数は8ページ程度．
