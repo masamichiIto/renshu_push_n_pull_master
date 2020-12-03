@@ -1,6 +1,9 @@
 https://qiita.com/ryo2132/items/b7e312b0eb50fc449841
 teriminalのコマンド
 
+https://hacknote.jp/archives/54012/
+Github入門
+
 https://docs.github.com/ja/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 the way to clone from existing repositories from github to your local directory, and vice versa.
 

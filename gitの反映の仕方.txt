@@ -4,7 +4,7 @@ Git clone URL
 でcloneする．ファイルを新たに追加した際は，
 
 1: git add ファイル名
-2: git commit  -> vi が起動して，適当な位置で i を押してINSERTモードに変える．コミットメッセージを書いて, esq押してINSERTモードを抜ける．:wq(保存して終了)を押してviを終了する．
+2: git commit  -> vi が起動して，適当な位置で i を押してINSERTモードに変える．コミットメッセージを書いて, esq押してINSERTモードを抜ける．:wq(保存して終了)を押してviを終了する．(もしくは，git commit -m "コミットメッセージ"でもできるっぽい)
 
 3: git push
 
